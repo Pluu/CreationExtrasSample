@@ -1,0 +1,1 @@
+Blog POST : http://pluu.github.io/blog/android/2022/03/12/creationextras/
